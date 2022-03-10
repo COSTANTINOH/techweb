@@ -1417,7 +1417,7 @@ a:hover, a:active {
 
 .main-navigation ul li li a:before {
   position: absolute;
-  content: "//";
+  /* content: "//"; */
   top: 50%;
   left: 0;
   color: #43baff;
